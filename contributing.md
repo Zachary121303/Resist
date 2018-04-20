@@ -11,12 +11,10 @@ Pull Request Process
 4.You may merge the Pull Request in once you have the sign-off of the owner of the repository. (Please allow me some time to get around to reviewing commits and to merge the pull requests)
 
 When you contribute please update the credits file
-
-=======
+---
 ##Licensing
 Please be aware this project is licensed under the GPL.
-
-=======
+---
 ##dependencies
 The dependencies for this project are listed below
 
