@@ -16,11 +16,11 @@ Pull Request Process
 When you contribute please update the credits file
 
 ---
-Licensing
+
 Please be aware this project is licensed under the GPL.
 
 ---
-dependencies
+
 The dependencies for this project are listed below
 
 *Python 3
