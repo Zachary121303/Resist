@@ -1,0 +1,2 @@
+Official notice by the developer.
+For this project as I'll be having several version and the GUI based version (to be the master one) is not created. You will have to find the appropriate version via the various branches.
